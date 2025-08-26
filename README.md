@@ -21,10 +21,9 @@ Each section explains the motion type, its advantages/disadvantages, and include
 * Non-critical path moves
 * Safe moves around workspace
 
-**Video Demo:**
-👉 [![Watch MoveJ Demo](images/movej-thumb.png)](your_movej_video_link_here)
+**Video Demo:**  
+👉 [![Watch MoveJ Demo](https://drive.google.com/file/d/1vsO3cmxGxyEdyfHisvhAHMG34MEnLgcH/view?usp=sharing)
 
----
 
 ## 🔹 2. MoveL – Linear Movement
 
@@ -38,7 +37,7 @@ Each section explains the motion type, its advantages/disadvantages, and include
 * Welding, gluing, or inspection along a straight path
 
 **Video Demo:**
-👉 [![Watch MoveL Demo](images/movel-thumb.png)](your_movel_video_link_here)
+👉 [![Watch MoveL Demo](https://drive.google.com/file/d/1LKv0oqTbGd1cUirSIOzAP2ixPQIm_Wuy/view?usp=sharing)
 
 ---
 
